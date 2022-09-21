@@ -1,0 +1,18 @@
+h1 {
+	color: yellow;
+	background-color: black;
+	text-align: center;
+}
+
+body {
+	color: blue; 
+	background-color: gray;
+}
+
+p {
+	background-color:orange;
+}
+
+div {
+	background-color: purple;
+}
