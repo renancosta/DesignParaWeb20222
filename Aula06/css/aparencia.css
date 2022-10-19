@@ -1,0 +1,49 @@
+body{
+	color: #000;
+	background-color: yellow;
+}
+
+h1{
+	background-color: #2248e1;
+	text-align: center;
+}
+
+h2{
+	background-color: #6c9fbe;
+}
+
+.materiaPrincipal{
+	color: #c4170c;
+	font-size: 30px;
+}
+
+.corG1{
+	color:#c4170c;
+}
+
+.materiaSecundaria{
+	color: #c4170c;
+	font-size: 20px;
+}
+
+.textoMateria{
+	color:#808080;
+}
+
+.rodapeMateria{
+	color:#808080;
+	font-size: 5px;
+}
+
+#ultimaMateria{
+	font-size: 50px;
+}
+
+.sombraQuadrada{ 
+	box-shadow: 8px 8px 8px #0c0c0a; 
+} 
+
+.sombraContorno{ 
+	filter: drop-shadow(8px 8px 4px #290fd1); 
+}
+
